@@ -1,3 +1,3 @@
-﻿Browser("Advantage Shopping").Page("Advantage Shopping").Link("tabletsTxt").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("tabletsTxt")_;_script infofile_;_ZIP::ssf1.xml_;_
+﻿Browser("Advantage Shopping").Page("Advantage Shopping").Link("tabletsTxt").Click   'hhh @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("tabletsTxt")_;_script infofile_;_ZIP::ssf1.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("$1,009.00").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("$1,009.00")_;_script infofile_;_ZIP::ssf2.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME").Check CheckPoint("HOMEscreen") @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME")_;_script infofile_;_ZIP::ssf3.xml_;_
